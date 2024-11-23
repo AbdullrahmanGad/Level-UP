@@ -1,4 +1,4 @@
-# The final Project for DEPI
+# The Final Project For DEPI
 Introduction:
 This project focuses on deploying a Java application using Docker and Kubernetes, with the primary aim of leveraging modern containerization and orchestration tools to achieve scalability, service isolation, and streamlined deployment processes.
 
