@@ -1,0 +1,7 @@
+/mnt/c/Users/sigma/Desktop/Depi GP/Deploying-Java-App/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/repositories/StockRepository.java
+/mnt/c/Users/sigma/Desktop/Depi GP/Deploying-Java-App/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/StockManagerApplication.java
+/mnt/c/Users/sigma/Desktop/Depi GP/Deploying-Java-App/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/exceptions/StockNotFoundException.java
+/mnt/c/Users/sigma/Desktop/Depi GP/Deploying-Java-App/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/config/DataGenerator.java
+/mnt/c/Users/sigma/Desktop/Depi GP/Deploying-Java-App/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/model/Stock.java
+/mnt/c/Users/sigma/Desktop/Depi GP/Deploying-Java-App/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/resources/StockResource.java
+/mnt/c/Users/sigma/Desktop/Depi GP/Deploying-Java-App/stockmanager/src/main/java/uk/co/danielbryant/djshopping/stockmanager/services/StockService.java
